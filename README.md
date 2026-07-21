@@ -1,3 +1,6 @@
+# Extra Line being added to check version control
+This repository was created as a Git and Python environment-management exercise.
+
 # GitHub API Playground
 
 A small Python practice project demonstrating:
